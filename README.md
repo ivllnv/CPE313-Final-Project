@@ -13,6 +13,18 @@
 * Topic modeling frameworks like Gensim for implementing topic modeling algorithms such as Latent Dirichlet Allocation (LDA) or Non-Negative Matrix Factorization (NMF)
 * Web development frameworks (Streamlit)
 
+## Folder Structure
+
+- **Notebooks:** This folder contains Jupyter notebooks used for data preprocessing, model training, and analysis. Each notebook is named descriptively to indicate its purpose or the stage of the analysis.
+
+- **Models:** This folder contains trained deep learning models saved in a format suitable for reuse or deployment.
+
+- **Web App:** The `Model Deployment` folder holds files related to the development of the web application.
+  
+- **Presentation:** This folder contains video related to the model deployment demonstration.
+
+- **Documentation:** This folder contains documentation file which is the research paper.
+
 ## Usage
 [description]
 
