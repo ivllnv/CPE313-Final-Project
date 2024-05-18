@@ -26,13 +26,11 @@ This repository contains the final deliverables for the course CPE313 Advanced M
 
 - **Documentation:** This folder contains documentation file which is the research paper.
 
-## Usage
-[description]
 
 ## Contributors
-Canja, Tricha Maie
+Canja, Tricha Maie | (qtmdacanja@tip.edu.ph)
 
-Villanueva, Iris
+Villanueva, Iris | (qilvillanueva@tip.edu.ph)
 
 ## License
 This project is licensed under the MIT License.
