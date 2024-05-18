@@ -1,4 +1,4 @@
-# Design of Business Intelligence on Geospatial Data Using Deep Learning
+# Design of Business Opportunity Analsyis on Geospatial Data Using Deep Learning
 ## Overview
 This repository contains the final deliverables for the course CPE313 Advanced Machine Learning and Deep Learning. The project focuses on the design and implementation of a business opportunity analysis system using geospatial data. The goal is to develop a comprehensive framework that leverages geospatial information to identify and assess potential business opportunities in specific regions or areas of interest.
 
