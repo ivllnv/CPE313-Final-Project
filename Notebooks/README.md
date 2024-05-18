@@ -4,7 +4,7 @@ This folder contains Jupyter notebooks that document the various stages of the p
 ## Notebooks Overview
 **1. Data Preprocessing**
 
-File: [name ng file]
+File: `DataPreprocessing.ipynb`
 
 Description:
 
@@ -26,13 +26,11 @@ Description:
 
 **3. Topic Modeling**
 
-File: [name ng file]
+File: `Topic Modeling.ipynb`
 
 Description:
 
-* Apply topic modeling algorithms such as Latent Dirichlet Allocation (LDA) and Non-Negative Matrix Factorization (NMF) to Yelp reviews.
-* [Add more info na lang]
-
+* Apply topic modeling algorithms such as Latent Dirichlet Allocation (LDA) and Latent Sentiment Analysis to cleaned and processed reviews.
 
 ## Notes
 * Ensure the dataset files are correctly placed in the appropriate directories as referenced in the notebooks.
