@@ -4,7 +4,7 @@ This folder contains the documentation related to the business opportunity analy
 ## Documentation Overview
 **IMRaD Paper**
 
-File: [name ng file]
+File: `CPE313 Final Project Documentation.pdf`
 
 Description:
 
